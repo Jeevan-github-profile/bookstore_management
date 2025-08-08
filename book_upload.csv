@@ -1,0 +1,6 @@
+bookid|title|isbn|publication_date|author|stock|price|reorder_level|publisher_id
+10001|High school Algebra|12345|24/06-2018|Banerjee|1000|500|50|11001
+10002|Motivational quotes|274374|25/02/2019|Danpal|200|100|10|11002
+10003|Positive thinking|1285|20/01/2012|Ramji|100|150|25|11003
+10004|Don\'t Sweat For Small Things|325235|26/10/2017|Shivpal|250|175|25|11004
+10005|As one thinks|6789|12/10/2015|Narayan|300|225|30|11005
